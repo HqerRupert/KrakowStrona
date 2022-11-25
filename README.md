@@ -1,0 +1,2 @@
+# KrakowStrona
+Strona na informatyke
